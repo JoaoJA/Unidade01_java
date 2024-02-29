@@ -18,5 +18,7 @@ class SomarDoisNumeros {
 	
 		// Mostrar na tela
 		System.out.println("Soma:" + soma);
+		
+		// Fim do programa
 	}
 }
